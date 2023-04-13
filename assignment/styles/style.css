@@ -3,3 +3,10 @@ body {
     background-image: linear-gradient(to left, #570276, #ac63ff);
 
 }
+ol {
+    font-size: 22px;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.75;
+    
+}
